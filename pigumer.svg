@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <clipPath id="clip-Pigumer">
+      <rect width="1024" height="1024"/>
+    </clipPath>
+  </defs>
+  <g id="Pigumer" clip-path="url(#clip-Pigumer)">
+    <rect width="1024" height="1024" fill="#fff"/>
+    <g id="グループ_1" data-name="グループ 1" transform="translate(180 150.967)">
+      <path id="多角形_1" data-name="多角形 1" d="M309.594,16a76,76,0,0,1,66.172,0l208.8,100.97a76,76,0,0,1,41.024,51.575l51.685,227.384a76,76,0,0,1-14.6,64.111L518.007,642.208a76,76,0,0,1-59.514,28.734H226.867a76,76,0,0,1-59.514-28.734L22.677,460.04a76,76,0,0,1-14.6-64.111L59.767,168.545a76,76,0,0,1,41.024-51.575Z" transform="translate(-9)" fill="#1f68dc"/>
+      <g id="長方形_1" data-name="長方形 1" transform="matrix(0.788, -0.616, 0.616, 0.788, -13.116, 523.439)" fill="#1f68dc" stroke="#fff" stroke-width="10">
+        <rect width="82.593" height="196.541" rx="33" stroke="none"/>
+        <rect x="5" y="5" width="72.593" height="186.541" rx="28" fill="none"/>
+      </g>
+      <g id="長方形_2" data-name="長方形 2" transform="matrix(0.788, -0.616, 0.616, 0.788, -36.823, 618.268)" fill="#1f68dc" stroke="#fff" stroke-width="10">
+        <rect width="82.593" height="98.653" rx="33" stroke="none"/>
+        <rect x="5" y="5" width="72.593" height="88.653" rx="28" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
